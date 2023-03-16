@@ -1,0 +1,14 @@
+.widget-recent-post {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #707070;
+    margin-bottom: 1rem;
+  }
+  
+  .widget-recent-post:last-child {
+    border: 0;
+    margin: 0;
+  }
+  .widget-image {
+    order: -1;
+  }

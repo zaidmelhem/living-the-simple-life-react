@@ -1,0 +1,12 @@
+  .article-read-more {
+    font-size: 0.875rem;
+    color: #1792d2;
+    text-decoration: none;
+    font-weight: 700;
+  }
+    
+  .article-read-more:hover,.article-read-more:focus {
+    color: #143774;
+    text-decoration: underline;
+  }
+  

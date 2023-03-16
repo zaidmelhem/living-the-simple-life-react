@@ -1,0 +1,8 @@
+.article-featured {
+    display: flex;
+    flex-direction: column;
+    border-bottom: #707070 1px solid;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+    text-align: left;
+  }

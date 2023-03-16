@@ -1,0 +1,11 @@
+.article-image {
+    order: -2;
+    max-width: 100%;
+    display: bloack;
+  }
+  .article-info {
+    order: -1;
+    font-size: 0.875rem;
+    margin: 2em 0;
+  }
+  

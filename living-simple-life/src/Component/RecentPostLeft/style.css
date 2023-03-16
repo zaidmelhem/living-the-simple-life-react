@@ -1,0 +1,15 @@
+.article-recent-secondary {
+    order: 1;
+    width: 30%;
+  }
+  .article-image {
+    order: -2;
+    max-width: 100%;
+    display: bloack;
+  }
+  .article-info {
+    margin: 2em 0;
+    font-size: 0.875rem;
+    order: -1;
+  }
+  
